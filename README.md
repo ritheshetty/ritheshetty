@@ -7,7 +7,7 @@ Welcome to my GitHub! Would be great to connect over potential collaboration opp
 -----------------------------------------------------------------------------------
 Here's my [Linkedin](https://www.linkedin.com/in/ritheshetty/).
 
-Check out my [personal website](https://bit.ly/ritheshetty) for more info as well!
+Check out my [Notion webpage](https://bit.ly/ritheshetty) for more info as well!
 <!--
 **ritheshetty/ritheshetty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

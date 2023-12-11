@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm Rithesh Shetty, a CS Master's graduate from UC Irvine, interested in product development.
+Would be great to connect over potential collaboration opportunities!💻
+Here's my [Linkedin]([https://www.linkedin.com/in/ritheshetty/])
 <!--
 **ritheshetty/ritheshetty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

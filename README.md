@@ -4,7 +4,7 @@ I'm Rithesh Shetty, a CS Master's graduate from UC Irvine, interested in product
 
 Welcome to my GitHub! Would be great to connect over potential collaboration opportunities! 🖥️ 
 
------------------------------------------------------------------------------------
+
 Here's my [Linkedin](https://www.linkedin.com/in/ritheshetty/).
 
 Check out my [Notion webpage](https://bit.ly/ritheshetty) for more info as well!

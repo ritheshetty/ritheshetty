@@ -2,7 +2,7 @@
 
 I'm Rithesh Shetty, a CS Master's graduate from UC Irvine, interested in product development and management.
 
-Welcome to my GitHub! Would be great to connect over potential collaboration opportunities.💻
+Welcome to my GitHub! Would be great to connect over potential collaboration opportunities! 🖥️ 
 
 -----------------------------------------------------------------------------------
 Here's my [Linkedin](https://www.linkedin.com/in/ritheshetty/).

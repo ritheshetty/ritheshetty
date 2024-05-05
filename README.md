@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Rithesh Shetty, a CS Master's graduate from UC Irvine, interested in product development and management.
+I'm Rithesh Shetty, a CS Master's graduate from UC Irvine, interested in software development and product.
 
 Welcome to my GitHub! Would be great to connect over potential collaboration opportunities! 🖥️ 
 
